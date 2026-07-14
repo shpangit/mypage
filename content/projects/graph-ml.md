@@ -1,6 +1,6 @@
 +++
 date = '2026-07-14T22:52:03+09:00'
-draft = true
+draft = false
 title = 'Point Cloud data'
 selected = true
 image = "/images/pointcloud.jpeg"
