@@ -1,4 +1,4 @@
-baseURL = "https://shpangit.github.io/"
+baseURL = "https://shpangit.github.io/mypage"
 title = "SungHyuk PANG 방성혁"
 theme = "hugo-coder"
 locale = "en"
