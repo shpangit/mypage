@@ -22,11 +22,6 @@
     <loc>http://localhost:1313/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="kr"
-                href="http://localhost:1313/kr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/categories/"
                 />
@@ -34,6 +29,11 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="http://localhost:1313/kr/categories/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/series/</loc>
@@ -61,13 +61,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
+                hreflang="kr"
+                href="http://localhost:1313/kr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="kr"
-                href="http://localhost:1313/kr/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
     <loc>http://localhost:1313/fr/tags/</loc>

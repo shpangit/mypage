@@ -4,9 +4,29 @@
   <url>
     <loc>http://localhost:1313/projects/graph-ml/</loc>
     <lastmod>2026-07-14T22:52:03+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/projects/graph-ml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="http://localhost:1313/kr/projects/graph-ml/"
+                />
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
     <lastmod>2026-07-14T22:52:03+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="kr"
+                href="http://localhost:1313/kr/projects/"
+                />
   </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2026-07-14T22:52:03+09:00</lastmod>
@@ -17,13 +37,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="fr"
-                href="http://localhost:1313/fr/"
+                hreflang="kr"
+                href="http://localhost:1313/kr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="kr"
-                href="http://localhost:1313/kr/"
+                hreflang="fr"
+                href="http://localhost:1313/fr/"
                 />
   </url><url>
     <loc>http://localhost:1313/authors/</loc>
@@ -46,6 +66,11 @@
     <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="kr"
+                href="http://localhost:1313/kr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en"
                 href="http://localhost:1313/categories/"
                 />
@@ -54,13 +79,13 @@
                 hreflang="fr"
                 href="http://localhost:1313/fr/categories/"
                 />
-    <xhtml:link
-                rel="alternate"
-                hreflang="kr"
-                href="http://localhost:1313/kr/categories/"
-                />
   </url><url>
     <loc>http://localhost:1313/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/series/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -70,11 +95,6 @@
                 rel="alternate"
                 hreflang="kr"
                 href="http://localhost:1313/kr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/series/"
                 />
   </url><url>
     <loc>http://localhost:1313/tags/</loc>

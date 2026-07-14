@@ -153,13 +153,13 @@ author = "authors"
 name = "LinkedIn"
 icon = "fa-brands fa-linkedin fa-2x"
 weight = 1
-url = "https://www.linkedin.com/in/johndoe/"
+url = "https://www.linkedin.com/in/sung-hyuk-pang-61502a141/"
 
 [[params.social]]
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 2
-url = "https://github.com/johndoe/"
+url = "https://github.com/shpangit"
 
 # [[params.social]]
 # name = "pang.sh@hotmail.com"
