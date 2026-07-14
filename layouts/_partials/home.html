@@ -20,7 +20,7 @@
             <!-- If an image exists in front matter, display it -->
             {{ if .Params.image }}
               <a href="{{ .RelPermalink }}">
-                <img src="{{ .Params.image }}" alt="{{ .Title }}" style="width: 100%; border-radius: 8px; margin-bottom: 0.8rem; object-fit: cover; aspect-ratio: 16/9; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <img src="{{ .Params.image}}" alt="{{ .Title }}" style="width: 100%; border-radius: 8px; margin-bottom: 0.8rem; object-fit: cover; aspect-ratio: 16/9; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
               </a>
             {{ end }}
             

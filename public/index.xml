@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>SungHyuk PANG 방성혁</title>
-		<link>http://localhost:1313/</link>
+		<link>http://localhost:1313/mypage/</link>
 		<description>Recent content on SungHyuk PANG 방성혁</description>
 		<generator>Hugo</generator>
 		<language>en</language>
@@ -12,12 +12,12 @@
 		
 			<lastBuildDate>Tue, 14 Jul 2026 22:52:03 +0900</lastBuildDate>
 		
-			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/mypage/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Point Cloud data</title>
-				<link>http://localhost:1313/projects/graph-ml/</link>
+				<link>http://localhost:1313/mypage/projects/graph-ml/</link>
 				<pubDate>Tue, 14 Jul 2026 22:52:03 +0900</pubDate>
-				<guid>http://localhost:1313/projects/graph-ml/</guid>
+				<guid>http://localhost:1313/mypage/projects/graph-ml/</guid>
 				<description>&lt;p&gt;This post should be the contents to be shown in the first page&lt;/p&gt;</description>
 			</item>
 	</channel>
