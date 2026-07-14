@@ -56,6 +56,11 @@
     <loc>http://localhost:1313/kr/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="en"
+                href="http://localhost:1313/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr"
                 href="http://localhost:1313/fr/"
                 />
@@ -64,13 +69,13 @@
                 hreflang="kr"
                 href="http://localhost:1313/kr/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/kr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/tags/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/kr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -80,11 +85,6 @@
                 rel="alternate"
                 hreflang="kr"
                 href="http://localhost:1313/kr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

@@ -201,10 +201,10 @@ name = "About"
 weight = 1
 url = "about/"
 
-# [[languages.en.menu.main]]
-# name = "Blog"
-# weight = 2
-# url = "posts/"
+[[languages.en.menu.main]]
+name = "Projects"
+weight = 2
+url = "projects/"
 
 # [[languages.en.menu.main]]
 # name = "Projects"
@@ -228,6 +228,11 @@ info = ["개발자","머신러닝", "[pang.sh@hotmail.com](mailto:pang.sh@hotmai
 name = "소개"
 weight = 1
 url = "about/"
+
+[[languages.kr.menu.main]]
+name = "프로젝트"
+weight = 2
+url = "projects/"
 
 # Français
 [languages.fr]
