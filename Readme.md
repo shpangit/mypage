@@ -26,3 +26,8 @@ Starting with the default template contents:
 ```
 The page will be available @ localhost:1313.  
 *-D* option is for drafts.
+
+## How to deploy on Github Page
+1. Create a *.github/workflows/hugo.yaml* file.
+2. Push the code
+3. Setting the Deployment on Github repo (setting -> page). The repo must be in public visibility.
